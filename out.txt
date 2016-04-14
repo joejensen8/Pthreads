@@ -1,0 +1,60 @@
+C enters.
+C waiting. C [1] H [0]
+C enters.
+C waiting. C [2] H [0]
+H enters.
+H waiting. C [2] H [1]
+H enters.
+H waiting. C [2] H [2]
+H enters.
+H waiting. C [2] H [3]
+H enters.
+
+H combining to make CH4!
+
+C enters.
+C waiting. C [2] H [0]
+H enters.
+H waiting. C [2] H [1]
+H enters.
+H waiting. C [2] H [2]
+H enters.
+H waiting. C [2] H [3]
+H enters.
+
+H combining to make CH4!
+
+H enters.
+H waiting. C [1] H [1]
+H enters.
+H waiting. C [1] H [2]
+H enters.
+H waiting. C [1] H [3]
+H enters.
+
+H combining to make CH4!
+
+H enters.
+H waiting. C [0] H [1]
+H enters.
+H waiting. C [0] H [2]
+H enters.
+H waiting. C [0] H [3]
+H enters.
+H waiting. C [0] H [4]
+H enters.
+H waiting. C [0] H [5]
+H enters.
+H waiting. C [0] H [6]
+H enters.
+H waiting. C [0] H [7]
+C enters.
+
+C combining to make CH4!
+
+H enters.
+H waiting. C [0] H [4]
+C enters.
+
+C combining to make CH4!
+
